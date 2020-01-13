@@ -1,0 +1,10 @@
+{
+  "name": "konmari",
+  "version": "1.0.0",
+  "description": "A JavaScript Events Toolkit",
+  "main": "dist/index.cjs.js",
+  "repository": "git@github.com:LukasBombach/konmari.git",
+  "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
+  "license": "MIT",
+  "private": false
+}
